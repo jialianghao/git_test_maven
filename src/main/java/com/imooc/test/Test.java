@@ -4,6 +4,6 @@
  */
  public class Test {
   //小明新提交代码
-  //sun新写的代码  未提交
+  //小明新提交代码2   sun还未pull  但是sun已经在本地开发了代码
 
 }
